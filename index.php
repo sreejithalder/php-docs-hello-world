@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello AzureAppService!";
+echo "Hello sreejitwebapp-php!";
